@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-Image classification using a Multilayer Perceptron (MLP), using individual pixels as features.
+Image classification using a Multilayer Perceptron (MLP).
 '''
 
 from ml_library import *
