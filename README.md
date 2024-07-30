@@ -2,8 +2,7 @@ July 2022
 
 ## Galaxy Classification
 
-This project contains scripts for training and testing machine learning models for the classification of galaxies based on their morphology (elliptical or spiral), 
-including low-level features, Multilayer Perceptron (MLP), and signal detection using k-means clustering. 
+This project provides scripts for training and testing machine learning models to classify galaxies based on their morphology, distinguishing between elliptical and spiral galaxies. The project includes methods for extracting low-level features, implementing a Multilayer Perceptron (MLP) for image classification, and using k-means clustering for signal detection.
 The project leverages a simple custom machine learning library implemented in Python.
 
 ### Project Structure
